@@ -1,5 +1,5 @@
 # #00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO
-> #### Dificultad: Fácil | Publicación: 26/12/23 | Corrección: 02/01/24
+> #### Dificultad: Fácil | Publicación: 26/12/23
 
 ## Ejercicio
 
